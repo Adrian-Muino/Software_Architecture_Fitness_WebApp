@@ -14,9 +14,7 @@ The goal of this web app was to practice our programming language JAVA, XHMTL an
 
 Set-up of the environment.
 Write the backend of our website (create our models & and controllers).
-
 Code four models (Food / Physical activity / Training program / User) with their respective controllers.
-
 Use NetBeans terminal to execute our app on premise.
 
 ## Phase 2:
@@ -28,12 +26,11 @@ Build & deploy the front end (views) of our website coded in XHTML and CSS.
 ## Phase 3:
 
 Extract and load datasets into MySQL.
-
 Connect our backend to our RDBMS.
 Review our models to retrieve and transform properly the data.
 
 ## Phase 4:
 
 Split the code into a RestFulService & RestFulClient.
-Connect the two servers using REST APIs. That would allow both servers to communicate with each other through RestAPI and process the responses accordingly.
+Connect the two servers using REST APIs to allow both servers to communicate with each other through RestAPI and process the responses accordingly.
 Deploy the final version & presentation.
