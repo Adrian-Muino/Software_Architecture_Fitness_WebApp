@@ -6,11 +6,9 @@ As a group of 4 students working on this project, we decided to come up with a f
 
 The goal of this web app was to practice our programming language JAVA, XHMTL and CSS. Also, it was an opportunity to apply Model–view–controller (MVC) as software architectural pattern and MySQL to manage our RDBMS (Relational Database Management System). For this project we had the constraint to use NetBeans IDE and Payara Servers.
 
-# Web App Home-Page
+# Web App Home-Page & Phases of our project
 <img src="https://user-images.githubusercontent.com/114933900/232544710-a869004d-7906-4e30-ba22-8c283779d192.PNG">
 
-
-Our project was divided into 4 phases:
 
 ## Phase 1:
 
