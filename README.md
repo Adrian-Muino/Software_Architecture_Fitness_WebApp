@@ -1,4 +1,4 @@
-# Software-Architecture-Fitness-WebApp
+# Software Architecture Fitness WebApp
 
 This project was made in the context of a master class in Software Architectecture. <br />
 
