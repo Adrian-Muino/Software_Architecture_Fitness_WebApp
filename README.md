@@ -12,25 +12,25 @@ The goal of this web app was to practice our programming language JAVA, XHMTL an
 
 ## Phase 1:
 
-Set-up of the environment. \n
-Write the backend of our website (create our models & and controllers). \n
-Code four models (Food / Physical activity / Training program / User) with their respective controllers.
-Use NetBeans terminal to execute our app on premise.
+Set-up of the environment. <br />
+Write the backend of our website (create our models & and controllers). <br />
+Code four models (Food / Physical activity / Training program / User) with their respective controllers. <br />
+Use NetBeans terminal to execute our app on premise. <br />
 
 ## Phase 2:
 
-Write code to handle errors and unit tests.
-Set-up the Payara Server.
-Build & deploy the front end (views) of our website coded in XHTML and CSS.
+Write code to handle errors and unit tests. <br />
+Set-up the Payara Server. <br />
+Build & deploy the front end (views) of our website coded in XHTML and CSS. <br />
 
 ## Phase 3:
 
-Extract and load datasets into MySQL.
-Connect our backend to our RDBMS.
-Review our models to retrieve and transform properly the data.
+Extract and load datasets into MySQL. <br />
+Connect our backend to our RDBMS. <br />
+Review our models to retrieve and transform properly the data. <br />
 
 ## Phase 4:
 
-Split the code into a RestFulService & RestFulClient.
-Connect the two servers using REST APIs to allow both servers to communicate with each other through RestAPI and process the responses accordingly.
-Deploy the final version & presentation.
+Split the code into a RestFulService & RestFulClient. <br />
+Connect the two servers using REST APIs to allow both servers to communicate with each other through RestAPI and process the responses accordingly. <br />
+Deploy the final version & presentation. <br />
