@@ -12,8 +12,8 @@ The goal of this web app was to practice our programming language JAVA, XHMTL an
 
 ## Phase 1:
 
-Set-up of the environment.
-Write the backend of our website (create our models & and controllers).
+Set-up of the environment. \n
+Write the backend of our website (create our models & and controllers). \n
 Code four models (Food / Physical activity / Training program / User) with their respective controllers.
 Use NetBeans terminal to execute our app on premise.
 
